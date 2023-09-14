@@ -1,0 +1,14 @@
+C:\Assignment\Assignment\exercise-9\obj\Debug\netcoreapp3.1\exercise-9.csproj.AssemblyReference.cache
+C:\Assignment\Assignment\exercise-9\obj\Debug\netcoreapp3.1\exercise-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\Assignment\exercise-9\obj\Debug\netcoreapp3.1\exercise-9.AssemblyInfoInputs.cache
+C:\Assignment\Assignment\exercise-9\obj\Debug\netcoreapp3.1\exercise-9.AssemblyInfo.cs
+C:\Assignment\Assignment\exercise-9\obj\Debug\netcoreapp3.1\exercise-9.csproj.CoreCompileInputs.cache
+C:\Assignment\Assignment\exercise-9\bin\Debug\netcoreapp3.1\exercise-9.exe
+C:\Assignment\Assignment\exercise-9\bin\Debug\netcoreapp3.1\exercise-9.deps.json
+C:\Assignment\Assignment\exercise-9\bin\Debug\netcoreapp3.1\exercise-9.runtimeconfig.json
+C:\Assignment\Assignment\exercise-9\bin\Debug\netcoreapp3.1\exercise-9.runtimeconfig.dev.json
+C:\Assignment\Assignment\exercise-9\bin\Debug\netcoreapp3.1\exercise-9.dll
+C:\Assignment\Assignment\exercise-9\bin\Debug\netcoreapp3.1\exercise-9.pdb
+C:\Assignment\Assignment\exercise-9\obj\Debug\netcoreapp3.1\exercise-9.dll
+C:\Assignment\Assignment\exercise-9\obj\Debug\netcoreapp3.1\exercise-9.pdb
+C:\Assignment\Assignment\exercise-9\obj\Debug\netcoreapp3.1\exercise-9.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exercise-7/1.0.0": {
+        "dependencies": {
+          "exercise-5": "1.0.0"
+        },
+        "runtime": {
+          "exercise-7.dll": {}
+        }
+      },
+      "exercise-5/1.0.0": {
+        "runtime": {
+          "exercise-5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercise-7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "exercise-5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

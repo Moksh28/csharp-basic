@@ -1,0 +1,13 @@
+C:\Assignment\Assignment\exercise-8\bin\Debug\netcoreapp3.1\exercise-8.exe
+C:\Assignment\Assignment\exercise-8\bin\Debug\netcoreapp3.1\exercise-8.deps.json
+C:\Assignment\Assignment\exercise-8\bin\Debug\netcoreapp3.1\exercise-8.runtimeconfig.json
+C:\Assignment\Assignment\exercise-8\bin\Debug\netcoreapp3.1\exercise-8.runtimeconfig.dev.json
+C:\Assignment\Assignment\exercise-8\bin\Debug\netcoreapp3.1\exercise-8.dll
+C:\Assignment\Assignment\exercise-8\bin\Debug\netcoreapp3.1\exercise-8.pdb
+C:\Assignment\Assignment\exercise-8\obj\Debug\netcoreapp3.1\exercise-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\Assignment\exercise-8\obj\Debug\netcoreapp3.1\exercise-8.AssemblyInfoInputs.cache
+C:\Assignment\Assignment\exercise-8\obj\Debug\netcoreapp3.1\exercise-8.AssemblyInfo.cs
+C:\Assignment\Assignment\exercise-8\obj\Debug\netcoreapp3.1\exercise-8.csproj.CoreCompileInputs.cache
+C:\Assignment\Assignment\exercise-8\obj\Debug\netcoreapp3.1\exercise-8.dll
+C:\Assignment\Assignment\exercise-8\obj\Debug\netcoreapp3.1\exercise-8.pdb
+C:\Assignment\Assignment\exercise-8\obj\Debug\netcoreapp3.1\exercise-8.genruntimeconfig.cache

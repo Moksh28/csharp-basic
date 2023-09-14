@@ -1,0 +1,14 @@
+C:\Assignment\Assignment\exercise-16\bin\Debug\netcoreapp3.1\exercise-16.exe
+C:\Assignment\Assignment\exercise-16\bin\Debug\netcoreapp3.1\exercise-16.deps.json
+C:\Assignment\Assignment\exercise-16\bin\Debug\netcoreapp3.1\exercise-16.runtimeconfig.json
+C:\Assignment\Assignment\exercise-16\bin\Debug\netcoreapp3.1\exercise-16.runtimeconfig.dev.json
+C:\Assignment\Assignment\exercise-16\bin\Debug\netcoreapp3.1\exercise-16.dll
+C:\Assignment\Assignment\exercise-16\bin\Debug\netcoreapp3.1\exercise-16.pdb
+C:\Assignment\Assignment\exercise-16\obj\Debug\netcoreapp3.1\exercise-16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\Assignment\exercise-16\obj\Debug\netcoreapp3.1\exercise-16.AssemblyInfoInputs.cache
+C:\Assignment\Assignment\exercise-16\obj\Debug\netcoreapp3.1\exercise-16.AssemblyInfo.cs
+C:\Assignment\Assignment\exercise-16\obj\Debug\netcoreapp3.1\exercise-16.csproj.CoreCompileInputs.cache
+C:\Assignment\Assignment\exercise-16\obj\Debug\netcoreapp3.1\exercise-16.dll
+C:\Assignment\Assignment\exercise-16\obj\Debug\netcoreapp3.1\exercise-16.pdb
+C:\Assignment\Assignment\exercise-16\obj\Debug\netcoreapp3.1\exercise-16.genruntimeconfig.cache
+C:\Assignment\Assignment\exercise-16\obj\Debug\netcoreapp3.1\exercise-16.csproj.AssemblyReference.cache
